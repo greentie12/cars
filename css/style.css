@@ -79,8 +79,6 @@ li {
   border-radius: 3px;
   outline: none;
   cursor: pointer;
-  /* margin-left: auto; */
-  /* align-self: flex-start; */
 }
 
 .text-light {
@@ -97,7 +95,7 @@ li {
 
 .aside-info {
   text-align: center;
-  min-width: 200px;
+  min-width: 175px;
   line-height: 1.5;
   letter-spacing: 1px;
   padding: 0.7rem;
@@ -116,7 +114,7 @@ li {
 
 .car-figure {
   max-width: 30%;
-  min-width: 300px;
+  min-width: 175px;
   margin-bottom: 1rem;
   line-height: 1.5;
   padding: 5px;
